@@ -1,2 +1,6 @@
-package org.example.repository;public interface FileRepository {
+package org.example.repository;
+
+import org.example.model.File;
+
+public interface FileRepository extends GenericRepository<File, Integer>{
 }

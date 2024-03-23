@@ -1,2 +1,6 @@
-package org.example.repository;public interface UserRepository {
+package org.example.repository;
+
+import org.example.model.User;
+
+public interface UserRepository extends GenericRepository<User,Integer>{
 }

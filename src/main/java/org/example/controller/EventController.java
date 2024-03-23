@@ -1,2 +1,4 @@
-package org.example.controller;public class EventController {
+package org.example.controller;
+
+public class EventController {
 }

@@ -1,2 +1,4 @@
-package org.example.view;public class EventView {
+package org.example.view;
+
+public class EventView {
 }
